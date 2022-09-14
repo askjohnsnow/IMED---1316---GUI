@@ -1,2 +1,6 @@
 GIT HUB .DEV - ((ADDED))
+<<<<<<< HEAD
+MY SECOND LINE
+=======
 GITHUG.DEV
+>>>>>>> 00724229479a66fac530570cf26c2cc034e4ee32
