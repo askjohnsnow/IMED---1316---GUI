@@ -1,1 +1,1 @@
-# IMED 1316 GUI
+#readme - gui version
